@@ -6,6 +6,9 @@
 </div>
 <br>
 Author: Cosimo Orlando.<br>
+Release: .1<br>
+Date: 20/09/2019<br>
+<br>
 Blog: http://creativityslashdesign.com/<br>
 <br>
 A Turin FabLab Project (WIP), 3D Printing mixed Laser Cutting.<br>
